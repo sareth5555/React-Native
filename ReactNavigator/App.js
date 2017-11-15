@@ -7,6 +7,7 @@ import NextScreen from './NextScreen'
 
 class MainScreen extends React.Component {
   static navigationOptions = {
+    title: 'Home Screen',
   };
   render() {
 
